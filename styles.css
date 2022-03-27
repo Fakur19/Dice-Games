@@ -1,0 +1,38 @@
+/* TAG SELECTOR */
+body{
+  background-color: #557B83;
+  color: #E5EFC1;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+a{
+  text-decoration: none;
+  color: #E5EFC1;
+}
+/* CLASS SELECTOR */
+.container{
+  padding: 3% 15%;
+}
+.title{
+  padding: 5% 10%;
+  font-family: 'Lobster', cursive;
+}
+.title-text{
+  font-size: 8rem;
+}
+.player-text{
+  padding-bottom: 3%;
+}
+.btn{
+  margin-top: 7%;
+}
+/* ID SELECTOR */
+#creator{
+  color: white;
+}
+
+/* HOVER */
+.title-text:hover{
+  color: #39AEA9;
+  
+}
